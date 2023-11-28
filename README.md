@@ -91,6 +91,11 @@ lib
 └─── firebase_options.dart
 ```
 
+## Screenshot of the Firebase data
+![](./screenshot/1.png)
+
+![](./screenshot/2.png)
+
 ### Local Setup
 
 - Create a firebase account if not already
